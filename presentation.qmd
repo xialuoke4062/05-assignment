@@ -17,16 +17,16 @@ format:
 ---
 
 <!-- Bar Chart Slide -->
-# Bar Chart: GDP per Capita  
-![GDP per Capita](gdp_bar.png){width="70%"}
+### Bar Chart: GDP per Capita  
+![GDP per Capita](gdp_bar.png){width="50%"}
 <!-- {fig:fig-bar width=60%}   -->
 <!-- *Figure @fig:fig-bar from the report* - removed to prevent direct printing -->
 
 ---
 
 <!-- Scatter Plot Slide -->
-# Scatter Plot: GDP Growth vs Life Expectancy  
-![Growth vs Life](growth_vs_life.png){width="70%"}
+### Scatter Plot: GDP Growth vs Life Expectancy  
+![Growth vs Life](growth_vs_life.png){width="50%"}
 <!-- {fig:fig-scatter width=60%}   -->
 <!-- *Figure @fig:fig-scatter from the report* - removed to prevent direct printing -->
 
