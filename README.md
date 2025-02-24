@@ -21,20 +21,19 @@ This project is designed for data analysis and presentation using Quarto. Below 
 
 4. **View the Output**: After rendering, you can find the HTML report in the project directory. Open it in your web browser to view the results.
 
-## Report Links
+## Report
 
 - [Rendered HTML Report](./index.html)
 - [Rendered PDF Report](./index.pdf)
 
-## Slides Links
+## Slides
 
 - [Rendered HTML Report](./presentation.html)
 - [Rendered PDF Report](./presentation.pdf)
 
-## GitHub Repository
-
-This project is hosted on GitHub. You can find the repository [here](https://github.com/yourusername/my-quarto-project).
-
 ## GitHub Pages
 
-The project can also be hosted using GitHub Pages. For more information on how to set this up, refer to the [GitHub Pages documentation](https://pages.github.com/).
+The project can also be hosted using GitHub Pages. 
+- [Report Page](https://xialuoke4062.github.io/05-assignment/index.html)
+- [Slides Page](https://xialuoke4062.github.io/05-assignment/presentation.html)
+For more information on how to set this up, refer to the [GitHub Pages documentation](https://pages.github.com/).
