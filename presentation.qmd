@@ -1,0 +1,43 @@
+---
+title: "Assignment 05 Presentation"
+author: "Stanley Xi Wang"
+date: "2025-02-23"
+format:
+  revealjs:
+    theme: sky
+    transition: fade
+---
+
+<!-- Title Slide -->
+# Assignment 05 Presentation  
+## Data Science Reports and Visualisations
+
+---
+
+<!-- Bar Chart Slide -->
+# Bar Chart: GDP per Capita  
+![GDP per Capita](gdp_bar.png){#fig-bar width=60%}  
+*Figure @fig-bar from the report*
+
+---
+
+<!-- Scatter Plot Slide -->
+# Scatter Plot: GDP Growth vs Life Expectancy  
+![Growth vs Life](growth_vs_life.png){#fig-scatter width=60%}  
+*Figure @fig-scatter from the report*
+
+---
+
+<!-- Key Statistics Table Slide -->
+# Key Statistics  
+<span id="tbl-stats" style="display:none"></span>
+The summary table in the report provides key statistics on GDP per Capita, GDP Growth Rate, and Life Expectancy.  
+*See Table @tbl-stats in the report.*
+
+---
+
+<!-- Conclusion Slide -->
+# Conclusion  
+- Analysis confirmed important trends in the dataset  
+- Future steps: interactive dashboards and automated workflows  
+- Repository and published links are in README.md
