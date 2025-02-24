@@ -21,6 +21,10 @@ This project is designed for data analysis and presentation using Quarto. Below 
 
 4. **View the Output**: After rendering, you can find the HTML report in the project directory. Open it in your web browser to view the results.
 
+## GitHub Repo 
+
+- [Repo URL](https://github.com/xialuoke4062/05-assignment)
+
 ## GitHub Pages
 
 The project can also be hosted using GitHub Pages. 
