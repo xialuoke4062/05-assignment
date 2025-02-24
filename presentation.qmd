@@ -18,23 +18,23 @@ format:
 
 <!-- Bar Chart Slide -->
 # Bar Chart: GDP per Capita  
-![GDP per Capita](gdp_bar.png){#fig-bar width=60%}  
-*Figure @fig-bar from the report*
+![GDP per Capita](gdp_bar.png){fig:fig-bar width=60%}  
+*Figure @fig:fig-bar from the report*
 
 ---
 
 <!-- Scatter Plot Slide -->
 # Scatter Plot: GDP Growth vs Life Expectancy  
-![Growth vs Life](growth_vs_life.png){#fig-scatter width=60%}  
-*Figure @fig-scatter from the report*
+![Growth vs Life](growth_vs_life.png){fig:fig-scatter width=60%}  
+*Figure @fig:fig-scatter from the report*
 
 ---
 
 <!-- Key Statistics Table Slide -->
 # Key Statistics  
-<span id="tbl-stats" style="display:none"></span>
+<span id="tbl:tbl-stats" style="display:none"></span>
 The summary table in the report provides key statistics on GDP per Capita, GDP Growth Rate, and Life Expectancy.  
-*See Table @tbl-stats in the report.*
+*See Table @tbl:tbl-stats in the report.*
 
 ---
 

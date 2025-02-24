@@ -21,10 +21,15 @@ This project is designed for data analysis and presentation using Quarto. Below 
 
 4. **View the Output**: After rendering, you can find the HTML report in the project directory. Open it in your web browser to view the results.
 
-## Links
+## Report Links
 
 - [Rendered HTML Report](./index.html)
 - [Rendered PDF Report](./index.pdf)
+
+## Slides Links
+
+- [Rendered HTML Report](./presentation.html)
+- [Rendered PDF Report](./presentation.pdf)
 
 ## GitHub Repository
 
