@@ -8,7 +8,7 @@ This project is designed for data analysis and presentation using Quarto. Below 
 - **_quarto.yml**: Configuration file for the Quarto project.
 - **README.md**: This documentation file.
 
-## Instructions to Run the Analysis
+<!-- ## Instructions to Run the Analysis
 
 1. **Install Quarto**: Ensure that you have Quarto installed on your system. You can download it from the [Quarto website](https://quarto.org/docs/get-started/).
 
@@ -19,7 +19,7 @@ This project is designed for data analysis and presentation using Quarto. Below 
    quarto render index.qmd
    ```
 
-4. **View the Output**: After rendering, you can find the HTML report in the project directory. Open it in your web browser to view the results.
+4. **View the Output**: After rendering, you can find the HTML report in the project directory. Open it in your web browser to view the results. -->
 
 ## GitHub Repo 
 
