@@ -36,4 +36,4 @@ This project is designed for data analysis and presentation using Quarto. Below 
 The project can also be hosted using GitHub Pages. 
 - [Report Page](https://xialuoke4062.github.io/05-assignment/index.html)
 - [Slides Page](https://xialuoke4062.github.io/05-assignment/presentation.html)
-For more information on how to set this up, refer to the [GitHub Pages documentation](https://pages.github.com/).
+- For more information on how to set this up, refer to the [GitHub Pages documentation](https://pages.github.com/).
