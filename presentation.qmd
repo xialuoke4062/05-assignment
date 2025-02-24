@@ -3,6 +3,8 @@ title: "Assignment 05 Presentation"
 author: "Stanley Xi Wang"
 date: "2025-02-23"
 format:
+  html: default
+  pdf: default
   revealjs:
     theme: sky
     transition: fade
